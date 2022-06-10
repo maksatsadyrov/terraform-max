@@ -9,10 +9,7 @@ __Test__
 
 Links
 
-[Visit test website] (https://learncodeonline.in)
 
-Images
-![Test](https://learncodeonline.in/mascot.png)
 
 ---
 use `for` loop
