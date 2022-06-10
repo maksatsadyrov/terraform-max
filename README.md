@@ -27,4 +27,5 @@ Test Tables
 | --- | --- | --- |
 | 1 | Max | 33 |
 | 2 | Janele | 32 |
+| 3 | Bekzat | 14 |
 
